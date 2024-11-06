@@ -1,0 +1,12 @@
+Body{
+    background: green;
+}
+
+label{
+    background: red;
+}
+button{
+    font-size: medium;
+    text-align: justify;
+    border-color: blueviolet;
+}

@@ -1,0 +1,31 @@
+Body{
+    background: rgb(128, 0, 100);
+}
+
+label{
+    background: red;
+}
+button{
+    font-size: medium;
+    text-align: justify;
+    border-color: blueviolet;
+}
+
+ p{
+    text-align: center;
+    font-size: large;
+    }
+    
+.about {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+
+
+img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}

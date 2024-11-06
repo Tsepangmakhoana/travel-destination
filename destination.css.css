@@ -1,0 +1,29 @@
+body{
+
+background: pink;
+}
+
+
+h1{
+    color:blue ;
+    background:white;
+}
+
+p{
+    color: blue;
+}
+
+button{
+    margin: left;
+    color: pink;
+    background: white;
+}
+
+
+ img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+
+}
